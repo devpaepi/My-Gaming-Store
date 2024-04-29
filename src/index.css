@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  /* place-items: center; */
+  width: 500px;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+* {
+  font-family: cursive;
+}

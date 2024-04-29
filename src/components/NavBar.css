@@ -1,0 +1,42 @@
+.nav-container {
+  position: absolute;
+  bottom: 0;
+  height: 10%;
+  width: 90%;
+  left: 5%;
+  background-color: rgba(247, 253, 253, 0.835);
+  border-radius: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30%;
+
+  /* width: 100%; */
+}
+
+.home,
+.shop {
+  display: flex;
+  flex-direction: column;
+  width: 66px;
+  height: 42px;
+  justify-items: normal;
+  align-items: center;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  fill: #9ca3af;
+}
+
+span {
+  font-size: 16px;
+  color: #9ca3af;
+}
+
+.active {
+  color: black;
+  fill: black;
+}
