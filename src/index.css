@@ -4,9 +4,12 @@ body {
 
   display: flex;
   /* place-items: center; */
-  width: 500px;
+  /* width: 500px; */
+  min-width: 100vw;
+
   overflow: hidden;
   min-height: 100vh;
+  background-color: #f1faff;
 }
 
 * {

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "image-url": "https://telegra.ph/file/8f3e282182ab7f4ea1748.png",
+    "type": "Andriod Free Fire Sensi",
+    "Phone": "Redmi",
+    "price": "Watch 3 ADS"
+  },
+  {
+    "id": "2",
+    "image-url": "https://telegra.ph/file/8f3e282182ab7f4ea1748.png",
+    "type": "Andriod Free Fire Sensi",
+    "Phone": "Infinix",
+    "price": "Watch 3 ADS"
+  },
+  {
+    "id": "3",
+    "image-url": "https://telegra.ph/file/8f3e282182ab7f4ea1748.png",
+    "type": "Andriod Free Fire Sensi",
+    "Phone": "Samsung",
+    "price": "Watch 3 ADS"
+  },
+  {
+    "id": "4",
+    "image-url": "https://telegra.ph/file/8f3e282182ab7f4ea1748.png",
+    "type": "IOS Free Fire Sensi",
+    "Phone": "All IOS",
+    "price": "Watch 5 ADS"
+  }
+]

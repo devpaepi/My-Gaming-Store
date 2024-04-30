@@ -13,9 +13,12 @@ span {
 .greetings {
   padding: 10px;
   height: 20%;
+  width: 80%;
   display: flex;
   flex-direction: column;
-  background-color: brown;
+  box-shadow: 5px 5px 10px rgba(10, 10, 38, 0.744);
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 20px;
 }
 
 .carousel {
