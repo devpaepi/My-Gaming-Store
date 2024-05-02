@@ -1,0 +1,21 @@
+.image {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+
+.product-card {
+  /* box-shadow: 5px 5px 10px rgba(10, 10, 38, 0.744); */
+  /* border-radius: 30px */
+  background-color: red;
+  height: auto;
+  width: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  border-radius: 30px;
+}

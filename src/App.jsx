@@ -7,11 +7,16 @@ import TopSec from "./components/TopSec";
 import DownSec from "./components/DownSec";
 
 function App() {
+  const styles = {
+    height: "100px",
+    width: "100%",
+  };
   return (
     <>
       <TopSec />
-      <NavBar />
       <DownSec />
+      <NavBar />
+      <div style={styles}>footer (comming soon)</div>
     </>
   );
 }

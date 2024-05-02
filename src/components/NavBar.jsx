@@ -10,7 +10,7 @@ const NavBar = () => {
       </div>
       <div className="shop">
         <FaStore className="icon" />
-        <span>Store</span>
+        <span className="sec">Store</span>
       </div>
     </div>
   );

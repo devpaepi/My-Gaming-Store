@@ -1,6 +1,6 @@
 .nav-container {
   position: absolute;
-  bottom: 20px;
+  bottom: 0;
   height: 10%;
   width: 90%;
   left: 5%;
@@ -32,7 +32,7 @@
   fill: #9ca3af;
 }
 
-span {
+.sec {
   font-size: 16px;
   color: #9ca3af;
 }

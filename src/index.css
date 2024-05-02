@@ -5,9 +5,10 @@ body {
   display: flex;
   /* place-items: center; */
   /* width: 500px; */
-  min-width: 100vw;
+  /* min-width: 100vw; */
 
-  overflow: hidden;
+  overflow: scroll;
+  overflow-x: hidden;
   min-height: 100vh;
   background-color: #f1faff;
 }

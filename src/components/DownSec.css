@@ -1,3 +1,11 @@
-div {
-  height: 45vh;
+.down-sec {
+  height: 70%;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.items {
+  text-align: center;
 }

@@ -1,10 +1,10 @@
-div {
-  height: 30vh;
+.top-sec-con {
+  height: 30%;
   width: 100%;
   display: block;
 }
 
-span {
+.g-span {
   font-size: 16px;
   color: black;
   font-weight: bold;
