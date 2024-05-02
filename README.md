@@ -1,5 +1,4 @@
-#![Vite-React](https://github.com/wonder4sure/My-Gaming-Store/assets/77880497/d7d529c5-bcb2-44cd-84f8-8c982fbac2a5)
- Paepi Gaming Store
+ #Paepi Gaming Store
 
 Paepi Gaming Store is a platform designed to enhance the gaming experience for mobile gamers, specifically those playing games like Free Fire, COD Mobile, PUBG, and other battle royale games. Our goal is to provide incredible settings for your phone to maximize gameplay efficiency, all for free. We achieve this by offering optimizations and settings tailored for mobile gaming.
 
@@ -28,3 +27,6 @@ We welcome contributions from the community to help improve Paepi Gaming Store. 
 ## Contact
 
 For any inquiries or support, you can reach us on [Twitter](https://twitter.com/paepixxx).
+
+![Vite-React](https://github.com/wonder4sure/My-Gaming-Store/assets/77880497/d7d529c5-bcb2-44cd-84f8-8c982fbac2a5)
+
