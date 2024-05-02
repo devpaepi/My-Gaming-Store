@@ -27,3 +27,13 @@ We welcome contributions from the community to help improve Paepi Gaming Store. 
 ## Contact
 
 For any inquiries or support, you can reach us on [Twitter](https://twitter.com/paepixxx).
+
+#TIMELINE
+
+{
+
+_On May 3rd, I completed the webpage's structural layout. However, as of that date, the site remains non-functional; only the mobile device layout has been established. To proceed, I plan to undertake a crash course in CSS and potentially explore utilizing a CSS framework to enhance the site's functionality._
+
+}
+
+![cURRENT-lOOK](https://github.com/wonder4sure/My-Gaming-Store/assets/77880497/36b980b6-4ba3-4391-a7af-315bf116429e)
