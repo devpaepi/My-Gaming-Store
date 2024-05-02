@@ -1,4 +1,5 @@
 import "./TopSec.css";
+import TempCarou from "./tempCarou";
 
 const TopSec = () => {
   return (
@@ -7,7 +8,9 @@ const TopSec = () => {
         <span className="g-span">Hello 👋!</span>
         <span className="g-span">Welcome To Paepi Store</span>
       </section>
-      <section className="carousel">this ia a carousel</section>
+      <section className="carousel">
+        <TempCarou />
+      </section>
     </section>
   );
 };

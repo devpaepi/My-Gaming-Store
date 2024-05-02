@@ -1,5 +1,5 @@
 .nav-container {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   height: 10%;
   width: 90%;
@@ -12,8 +12,11 @@
   align-items: center;
   justify-content: center;
   gap: 30%;
+  margin-bottom: 20px;
 
   /* width: 100%; */
+
+  flex-shrink: 0;
 }
 
 .home,

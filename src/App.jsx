@@ -12,12 +12,21 @@ function App() {
     width: "100%",
   };
   return (
-    <>
-      <TopSec />
-      <DownSec />
-      <NavBar />
+    <div
+      style={{
+        display: "flex",
+        flexDirection: "column",
+        height: "auto",
+      }}
+    >
+      <>
+        <TopSec />
+        <DownSec />
+        <NavBar />
+      </>
+
       <div style={styles}>footer (comming soon)</div>
-    </>
+    </div>
   );
 }
 

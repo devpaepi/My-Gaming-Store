@@ -27,3 +27,10 @@ We welcome contributions from the community to help improve Paepi Gaming Store. 
 ## Contact
 
 For any inquiries or support, you can reach us on [Twitter](https://twitter.com/paepixxx).
+
+#TIME_LINE
+
+{
+
+_On May 3rd, I completed the webpage's structural layout. However, as of that date, the site remains non-functional; only the mobile device layout has been established. To proceed, I plan to undertake a crash course in CSS and potentially explore utilizing a CSS framework to enhance the site's functionality._
+}
